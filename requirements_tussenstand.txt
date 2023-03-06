@@ -1,4 +1,5 @@
 markdown-it-py==2.2.0
 matplotlib @ file:///C:/ci/matplotlib-suite_1647423638658/work
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
 pandas @ file:///C:/ci/pandas_1650373458095/work
 plotly @ file:///opt/conda/conda-bld/plotly_1646671701182/work
